@@ -5,8 +5,6 @@
 - [Prasyarat](#prasyarat)
 - [Instalasi](#instalasi)
 - [Penggunaan](#penggunaan)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
 - [Kontak](#kontak)
 
 ## Tentang
@@ -68,6 +66,7 @@ Berikan langkah-langkah untuk menginstal proyek Anda. Misalnya:
 
 Rizal Pringgandani - [@rizalpringgandani009](https://twitter.com/TwitterHandle) - pringgandanirizal37@gmail.com
 
-Demo aplikasi: [Presensi BK2 Admin](https://rizalbk2tryhard.000webhostapp.com/admin)
-               [Presensi BK2 Guru/Siswa](https://rizalbk2tryhard.000webhostapp.com/)
+Demo aplikasi: 
+- [Presensi BK2 Admin](https://rizalbk2tryhard.000webhostapp.com/admin)
+- [Presensi BK2 Guru/Siswa](https://rizalbk2tryhard.000webhostapp.com/)
 
