@@ -50,16 +50,16 @@ Berikan langkah-langkah untuk menginstal proyek Anda. Misalnya:
    password : admin
    
    halaman admin:
-   ![Alt text](img/halamanAdmin)
+   ![Alt text](img/halamanAdmin.png)
 
    Pada Menu admin anda dapat mengelola data umum, jadwal mengajar, data guru, dan data siswa
 
    Halaman guru:
-   ![Alt text](img/halamanGuru)
+   ![Alt text](img/halamanGuru.png)
    Pada halaman Guru anda dapat melakukan presensi kepada siswa dan melakukan rekap persemester
 
    Halaman guru:
-   ![Alt text](img/halamanSiswa)
+   ![Alt text](img/halamanSiswa.png)
    Pada halaman Siswa anda dapat melihat daftar kehadiran siswa
    
 ## Kontak
